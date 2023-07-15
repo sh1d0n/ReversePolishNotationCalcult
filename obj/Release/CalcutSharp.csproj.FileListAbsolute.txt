@@ -1,0 +1,14 @@
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Release\CalcutSharp.exe.config
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Release\CalcutSharp.exe
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Release\CalcutSharp.pdb
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.csproj.AssemblyReference.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.Form1.resources
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.Properties.Resources.resources
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.csproj.GenerateResource.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.csproj.CoreCompileInputs.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.exe
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.pdb
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Release\CalcutSharp.exe.manifest
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Release\CalcutSharp.application
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.exe.manifest
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Release\CalcutSharp.application

@@ -1,0 +1,10 @@
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Debug\CalcutSharp.exe.config
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Debug\CalcutSharp.exe
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\bin\Debug\CalcutSharp.pdb
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.csproj.AssemblyReference.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.Form1.resources
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.Properties.Resources.resources
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.csproj.GenerateResource.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.csproj.CoreCompileInputs.cache
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.exe
+C:\Users\Shido\source\repos\CalcutSharp\CalcutSharp\obj\Debug\CalcutSharp.pdb
